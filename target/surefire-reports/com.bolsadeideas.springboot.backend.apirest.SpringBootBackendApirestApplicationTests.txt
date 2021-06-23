@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.bolsadeideas.springboot.backend.apirest.SpringBootBackendApirestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.063 s <<< FAILURE! - in com.bolsadeideas.springboot.backend.apirest.SpringBootBackendApirestApplicationTests
+contextLoads(com.bolsadeideas.springboot.backend.apirest.SpringBootBackendApirestApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mercanciaRestController': Unsatisfied dependency expressed through field 'mercanciaServices'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.bolsadeideas.springboot.backend.apirest.models.services.IMercanciaService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.bolsadeideas.springboot.backend.apirest.models.services.IMercanciaService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+

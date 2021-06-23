@@ -1,0 +1,16 @@
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\UsuarioServiceImp.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\dao\IUsuarioDao.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\dao\IClienteDao.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\controllers\ClienteRestController.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\MercanciaServiceImp.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Usuario.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\controllers\MercanciaRestController.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\dao\IMercanciaDao.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Cliente.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\SpringBootBackendApirestApplication.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\ClienteServiceImpl.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IMercanciaService.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\controllers\UsuariosRestControler.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Mercancia.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IClienteService.java
+C:\Springts5\workspace\267 spring-boot-backend-apirest-CRUD\spring-boot-backend-apirest\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IUsuarioService.java

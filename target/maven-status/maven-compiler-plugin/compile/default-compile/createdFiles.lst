@@ -1,0 +1,16 @@
+com\bolsadeideas\springboot\backend\apirest\controllers\MercanciaRestController.class
+com\bolsadeideas\springboot\backend\apirest\controllers\UsuariosRestControler.class
+com\bolsadeideas\springboot\backend\apirest\models\entity\Cliente.class
+com\bolsadeideas\springboot\backend\apirest\models\entity\Mercancia.class
+com\bolsadeideas\springboot\backend\apirest\models\services\ClienteServiceImpl.class
+com\bolsadeideas\springboot\backend\apirest\models\services\UsuarioServiceImp.class
+com\bolsadeideas\springboot\backend\apirest\SpringBootBackendApirestApplication.class
+com\bolsadeideas\springboot\backend\apirest\models\services\MercanciaServiceImp.class
+com\bolsadeideas\springboot\backend\apirest\models\dao\IClienteDao.class
+com\bolsadeideas\springboot\backend\apirest\models\services\IMercanciaService.class
+com\bolsadeideas\springboot\backend\apirest\models\services\IUsuarioService.class
+com\bolsadeideas\springboot\backend\apirest\models\entity\Usuario.class
+com\bolsadeideas\springboot\backend\apirest\models\services\IClienteService.class
+com\bolsadeideas\springboot\backend\apirest\models\dao\IMercanciaDao.class
+com\bolsadeideas\springboot\backend\apirest\controllers\ClienteRestController.class
+com\bolsadeideas\springboot\backend\apirest\models\dao\IUsuarioDao.class
